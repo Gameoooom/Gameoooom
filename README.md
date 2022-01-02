@@ -1,7 +1,5 @@
 ### Hi 👋
 
-- 😄 Pronouns: he/his
-
 ![Gameoooom's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameoooom&theme=midnight-purple&show_icons=true)
 
 </div>
