@@ -1,7 +1,7 @@
 ### Hi 👋
 </div>
 	<a href="https://github.com/joooom">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gameoooom&theme=midnight-purple&include_all_commits=true&show_icons=true&count_private=true"
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joooom&theme=midnight-purple&include_all_commits=true&show_icons=true&count_private=true"
 		 
 <div style="display: inline_block"><br>
 <img align="center" alt="JS" height="30" width="65" src="https://raw.githubusercontent.com/Gameoooom/gameoooom/icons/javascript-plain.svg">
